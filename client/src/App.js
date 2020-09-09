@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className='container'>
+      <h3>BLOG APP WOOOHOOOO!</h3>
       <h1>Create a new Post:</h1>
       <CreatePost />
       <hr />
